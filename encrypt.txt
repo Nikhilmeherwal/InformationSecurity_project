@@ -1,0 +1,8 @@
+In recent times, the introduction of information technology and e-health
+care system in the medical eld helps clinical experts to provide better
+health care to the patient. Brain tumor is one of the major causes for the
+increase in mortality among people. To detect infected tumor tissues from
+medical imaging modalities, segmentation is employed. This project is aim to
+implement Nature-inspired meta-heuristics algorithms to detect brain tumor.
+A previously used algorithm is used to prepare a comparative study with a
+non-implemented algorithm in the eld of brain segmentation.
